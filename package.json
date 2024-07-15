@@ -1,0 +1,35 @@
+{
+  "name": "muted-mirage",
+  "displayName": "Muted Mirage",
+  "icon": "https://raw.githubusercontent.com/mouhany/muted-mirage/main/static/muted-mirage-logo-small.png",
+  "description": "A dark VS Code theme with neutral, moderately muted syntax colors designed to reduce eye strain and provide a comfortable coding experience.",
+  "version": "1.0.0",
+  "publisher": "mouhany",
+  "author": {
+    "name": "Mouhany",
+    "email": "mouhany@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Muted Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/muted-mirage-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mouhany/muted-mirage"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@vscode/vsce": "^2.30.0"
+  }
+}
