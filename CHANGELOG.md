@@ -1,9 +1,13 @@
-# Change Log
-
-All notable changes to the "muted-mirage" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
+
+## [1.0.2] - 2024-07-17
+
+- Fix "editorWatermark.foreground" color
+
+## [1.0.1] - 2024-07-16
+
+- Add icon
+
+## [1.0.0] - 2024-07-16
 
 - Initial release

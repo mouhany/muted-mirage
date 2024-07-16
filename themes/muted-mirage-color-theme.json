@@ -239,7 +239,7 @@
     "editor.hoverHighlightBackground": "#c7c8c910",
     "editor.lineHighlightBackground": "#c7c8c910",
     "editor.lineHighlightBorder": "#c7c8c900",
-    "editorWatermark.foreground": "#00000025",
+    "editorWatermark.foreground": "#878889",
     "editorUnicodeHighlight.border": "#878889",
     "editorUnicodeHighlight.background": "#1b202c00",
     "editorLink.activeForeground": "#878889",
