@@ -69,9 +69,9 @@
     "inputValidation.warningBorder": "#e6c074",
     // Scrollbar control
     "scrollbar.shadow": "#171b25",
-    "scrollbarSlider.background": "#87888900",
-    "scrollbarSlider.hoverBackground": "#87888925",
-    "scrollbarSlider.activeBackground": "#87888950",
+    "scrollbarSlider.background": "#c7c8c910",
+    "scrollbarSlider.hoverBackground": "#c7c8c925",
+    "scrollbarSlider.activeBackground": "#c7c8c950",
     // Badge
     "badge.foreground": "#e6c073",
     "badge.background": "#e6c07325",
@@ -1278,6 +1278,7 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
+        "fontStyle": "bold",
         "foreground": "#d9cfb8"
       }
     },
@@ -1292,7 +1293,15 @@
       "name": "markup Italic",
       "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#686150"
+      }
+    },
+    {
+      "name": "markup Strikethrough",
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough"
       }
     },
     {
@@ -2136,7 +2145,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        // "fontStyle": "italic",
+        "fontStyle": "italic",
         "foreground": "#87888950"
       }
     },
@@ -2144,7 +2153,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#87888950"
+        "foreground": "#c7c8c9"
       }
     },
     {
@@ -2171,7 +2180,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
@@ -2185,7 +2194,7 @@
       "name": "markup.italic.markdown",
       "scope": "markup.italic.markdown",
       "settings": {
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     }
   ]

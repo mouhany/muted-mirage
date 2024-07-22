@@ -6,6 +6,8 @@
 
 ![Muted Mirage Preview](https://raw.githubusercontent.com/mouhany/muted-mirage/main/static/muted-mirage-preview.png)
 
+### Live preview: https://vscode.dev/editor/theme/mouhany.muted-mirage/Muted%20Mirage
+
 ## Installation:
 
 1. Go to **Extension** in VS Code's activity bar.
