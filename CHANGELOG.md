@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [1.0.4] - 2024-08-01
+
+- Change the opacity of `diffEditor.insertedLineBackground` and `diffEditor.removedLineBackground`.
+
 ## [1.0.3] - 2024-07-18
 
 - Fix "scrollbarSlider" color.
